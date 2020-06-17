@@ -7,7 +7,7 @@ So in order to overcome this limitation, john set out to replace this proprietar
 As a result, matplotlib was originally developed as an ECOG visualization tool. And just like MATLAB, matplotlib was equipped with a scripting interface quick and easy generation of graphics, represented by pyplot.
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/Lawrence-Krukrubo/Immigrations_Data_Visualization_with_Matplotlib/blob/master/matplotlib-data-visualization2.jpg?raw=true" alt="Charts">
+  <img width="700" height="300" src="https://github.com/Lawrence-Krukrubo/Immigrations_Data_Visualization_with_Matplotlib/blob/master/matplotlib-data-visualization2.jpg?raw=true" alt="Charts">
 </p>
 
 ## Features:
