@@ -76,7 +76,7 @@ Part 2 also covers the following:-
 We have seen how easy it is to call the **`plot()`** function on a pandas DataFrame to generate customisable plots. We also experienced the consistency of the matplotlib syntax,   both in generating and customizing plots. Next, we did some basic data exploration with pandas, by computing Statistical moments and exploring columns and index. Then we cleaned the data, dropped columns, renamed columns, changed data types and performed aggregations.
 
 #### Part 2 Blog-Post:
-The blog post for part two of this project can be found here in The DataSeries publication on [Medium](). This article goes a long way to explain each code syntax and logic.
+The blog post for part two of this project can be found here in The DataSeries publication on [Medium](https://medium.com/dataseries/mastering-matplotlib-part-2-a5114433fa0). This article goes a long way to explain each code syntax and logic.
   
 ### License:
 This Repo and all its documents abide under the **MIT** License attached in the root directory.
