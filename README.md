@@ -72,7 +72,7 @@ Part 2 also covers the following:-
   * Converting column data types
   * Computing aggregations on columns.
   
-#### Summary Part 2:**
+#### Summary Part 2:
 We have seen how easy it is to call the **`plot()`** function on a pandas DataFrame to generate customisable plots. We also experienced the consistency of the matplotlib syntax,   both in generating and customizing plots. Next, we did some basic data exploration with pandas, by computing Statistical moments and exploring columns and index. Then we cleaned the data, dropped columns, renamed columns, changed data types and performed aggregations.
 
 #### Part 2 Blog-Post:
@@ -91,6 +91,27 @@ Let's itemise these concepts fro clarity.
     * The **`select_stypes()`** method
 * **Indexing and Slicing DataFrame Rows:** 
   * **`set_index()`** and **`reset_index()`** methods
+  * Using **`.loc[]`** and **`.iloc[]`** indexers
+  * Slicing Rows lazily
+  * Slicing Rows Lexicographically
+* **Slicing DataFrame Rows and Columns**
+* **Selecting via Integers and Labels.**
+* **Speeding up Scalar Selections:**
+  * Comparing **`.iloc[]`** and **`.iat[]`** indexers
+  * Comparing **`.loc[]`** and **`.at[]`** indexers
+* **Boolean Selection:**
+  * Filter based on some criteria
+  * Multiple Boolean with square-brackets and Ampersand(&)
+  * Multiple Boolean with square-brackets and Vertical-bar(|)
+  * Multiple Boolean with np.logical conditions
+* **Binning**
+
+#### Summary Part 3:
+The good news is with this solid knowledge of pandas, we’re more than ready to explore real live data and create astounding visual plots with matplotlib from next week.
+We’ve extensively covered indexing and slicing DataFrame columns, rows and both together. We’ve learnt how to combine integer and label selections, how to speed-up scalar selection and even done good with boolean selection and binning.
+
+#### Part 3 Blog-Post:
+The blog post for part three of this project can be found here in The DataSeries publication on [Medium](https://medium.com/dataseries/mastering-matplotlib-part-3-371b7e52e116). This article goes a long way to explain each code syntax and logic.
     
 ### License:
 This Repo and all its documents abide under the **MIT** License attached in the root directory.
