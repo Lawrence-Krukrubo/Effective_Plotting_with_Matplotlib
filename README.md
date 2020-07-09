@@ -1,4 +1,4 @@
-# Effective_Plotting_with_Matplotlib:
+# Effective_Visualization_with_Matplotlib:
 
 Matplotlib is the most widely used if not the most popular data visualizing library in Python.
 It was created by `John Hunter(1968 - 2012)`. Who was a neurobiologist and was part of a reseach Team that was analyzing electrocorticography(ECOG) signals.
@@ -77,6 +77,20 @@ We have seen how easy it is to call the **`plot()`** function on a pandas DataFr
 
 #### Part 2 Blog-Post:
 The blog post for part two of this project can be found here in The DataSeries publication on [Medium](https://medium.com/dataseries/mastering-matplotlib-part-2-a5114433fa0). This article goes a long way to explain each code syntax and logic.
-  
+
+
+### Part 3:
+Part 3 covers intermediate pandas concepts such as boolean-indexing, filtering with key words, and criteria-based-selections. 
+Let's itemise these concepts fro clarity.
+
+* **Indexing and Slicing DataFrame Columns:**
+  * Selection via the dot-notation
+  * Selection via Square Brackets
+  * Selection with Methods:
+    * The **`filter()`** method
+    * The **`select_stypes()`** method
+* **Indexing and Slicing DataFrame Rows:** 
+  * **`set_index()`** and **`reset_index()`** methods
+    
 ### License:
 This Repo and all its documents abide under the **MIT** License attached in the root directory.
