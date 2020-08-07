@@ -112,6 +112,35 @@ We’ve extensively covered indexing and slicing DataFrame columns, rows and bot
 
 #### Part 3 Blog-Post:
 The blog post for part three of this project can be found here in The DataSeries publication on [Medium](https://medium.com/dataseries/mastering-matplotlib-part-3-371b7e52e116). This article goes a long way to explain each code syntax and logic.
+
+
+### Part 4:
+Part 4 covers intro to EDA with visual plots. We communicate data inferences using deep insights to the Line plots and Area plots.<br>
+Finally, we explore the matplotlib colors and play with its 148 unique colors available.
+
+* **Line Plots:**
+  * When to use Line plots
+  * Annotating plots with the **`plt.text()`** method
+  * Plotting multiple Line plots in same axis
+  * Do-it-Yourself Exercise on Line plots
+* **Area Plots:** 
+  * When to use Area plots
+  * Using a fontdict with Area plots
+  * Stacked Area plots
+  * Unstacked Area plots
+  * Adjusting transparency or alpha of Area plots
+  * Comparing stacked vs Unstacked Area plots
+  * Do-it-Yourself Exercise on Area plots
+* **Matplotlib Colours**
+* Counting the unique colours of Matplotlib
+* Plotting charts with random unique colours
+
+#### Summary Part 4:
+In this part, we have covered both Line and Area plots. These are quite similar and may be used interchangeably. Line plots are awesome for displaying continuous data points over time. Area plots are awesome for displaying cumulative totals or percentages over time.
+
+#### Part 4 Blog-Post:
+The blog post for part four of this project can be found here in The DataSeries publication on [Medium](https://medium.com/dataseries/mastering-matplotlib-part-4-e59799ae407d). This article goes a long way to explain each code syntax and logic.
+
     
 ### License:
 This Repo and all its documents abide under the **MIT** License attached in the root directory.
