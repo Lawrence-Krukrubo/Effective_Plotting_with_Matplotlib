@@ -141,6 +141,39 @@ In this part, we have covered both Line and Area plots. These are quite similar 
 #### Part 4 Blog-Post:
 The blog post for part four of this project can be found here in The DataSeries publication on [Medium](https://medium.com/dataseries/mastering-matplotlib-part-4-e59799ae407d). This article goes a long way to explain each code syntax and logic.
 
+
+### Part 5:
+Part 5 covers EDA with visual plots. We deep-dive into Stacked and Unstacked Area-Plots.<br>
+Understanding their intricate details, styling and customization steps.
+
+* **Histograms:**
+  * What are Histograms?
+  * When to use Histograms.
+  * Do-it-Yourself problem exercises
+* **Unstacked Histograms:** 
+  * When to use Unstacked Histplots.
+  * Using a fontdict with Histplots.
+  * Adjusting transparency or alpha of Unstacked Histplots.
+  * Do-it-Yourself problem exercises.
+* **Stacked Histograms**
+  * When to use Stacked Histplots.
+  * Adjusting transparency or alpha of Stacked Histplots.
+* **Customizing Histograms**
+  * Customizing bins with **`np.histogram()`** function.
+  * Adjusting x-ticks to align with bins.
+  * Adjusting xlim to reset Histplots on the Canvas.
+  * Changing colours and x-tick labels.
+* **Interpreting Histograms**
+  * Understanding the dynamics of each bar of the Unstacked Histplot.
+  * Understanding the dynamics of each bar of the Stacked Histplot.
+  * Understanding the markings on the y-axis
+  * Understanding count and frequency distribution
     
+#### Summary Part 5:
+In this part, we have covered both Stacked and Unstacked Histplots. These may be used interchangeably, but a solid understanding of the internal properties of each is important to create visually appealing and communicative Histplots. Histplots are awesome for displaying the frequenvy distribution of numerical values and can distinctively display the split of frequencies among variables per bin.
+
+#### Part 5 Blog-Post:
+The blog post for part four of this project can be found here in The DataSeries publication on [Medium](https://medium.com/dataseries/mastering-matplotlib-part-5-2e7375e52f2b). This article goes a long way to explain each code syntax and logic.
+ 
 ### License:
 This Repo and all its documents abide under the **MIT** License attached in the root directory.
